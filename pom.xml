@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application-2024-09</artifactId>
+	<artifactId>maven-web-application-experiment</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application-2024-09</name>
+	<name>maven-web-application-experiment</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://44.199.242.146:8081/repository/tarun-release/</url>
+	      <url>http://http://44.199.242.146:8081/repository/local-repo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.199.242.146:8081/repository/tarun-snap/</url>
+	      <url>http://http://44.199.242.146:8081/repository/local-repo-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
