@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application-1</finalName>
+		<finalName>maven-web-application-(2024-09-04)-build-3</finalName>
 		
 		<plugins>
 			<plugin>
