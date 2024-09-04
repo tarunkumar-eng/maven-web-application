@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application-2024</name>
+	<name>maven-web-application-2024-09</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application-(2024-09-04)-build-3</finalName>
+		<finalName>maven-web-application-2024-09</finalName>
 		
 		<plugins>
 			<plugin>
